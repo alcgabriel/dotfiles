@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=xdg-open /home/slowayy/Downloads/Overlord.pdf
+Terminal=false
+Hidden=false
+Name=Overlord
+Path=/home/slowayy/Downloads
+Categories=Science
