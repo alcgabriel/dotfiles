@@ -9,3 +9,4 @@
 #### Terminal: Ghostty + zsh
 #### WM: Sway
 #### Text Editor: NeoVim(LazyVim)
+#### Wallpapers: https://wallhaven.cc/user/alcgabriel
