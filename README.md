@@ -8,5 +8,6 @@
 #### Shell: Noctalia
 #### Terminal: Ghostty + zsh
 #### WM: Sway
+#### Theme: Gruvbox, Ayu or Kanagawa
 #### Text Editor: NeoVim(LazyVim)
 #### Wallpapers: https://wallhaven.cc/user/alcgabriel
