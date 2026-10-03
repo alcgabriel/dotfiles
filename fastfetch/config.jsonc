@@ -16,18 +16,19 @@
   },
   "modules": [
     {
-      "format": "{pretty-name}",
+      "format": "{1}",
       "key": " os",
       "keyColor": "#71b7ff",
       "type": "os"
     },
     {
-      "key": " kernel",
+      "key": " pkgs",
       "keyColor": "#d2a8ff",
-      "type": "kernel"
+      "type": "packages",
+      "format":"RPM ({rpm}) Flatpak ({flatpak-system}) AppImage ({appimage})",
     },
     {
-      "format": "{pretty-name}FX",
+      "format": "{pretty-name}",
       "key": " wm",
       "keyColor": "#ff8a8a",
       "type": "wm"

@@ -2,7 +2,7 @@
 ###AUTOSTART###
 ###############
 exec noctalia
-exec_always ~/.config/sway/autotiling-rs
+exec ~/.config/sway/autotiling-rs
 
 
 
@@ -15,13 +15,13 @@ set $mod Mod4
 
 
 set $browser "flatpak run com.brave.Browser"
-set $terminal "GTK_IM_MODULE=simple ghostty"
+set $terminal  "GTK_IM_MODULE=simple ghostty"
 set $fileManager "nautilus"
 
 
 set $app_launcher "noctalia msg panel-toggle launcher"
 set $cliphist     "noctalia msg panel-toggle clipboard"
-set $screenshot   "flameshot gui"
+set $screenshot   "flatpak run org.flameshot.Flameshot gui"
 set $power_menu   "noctalia msg panel-toggle session"
 
 set $gaming_mode "gaming"
